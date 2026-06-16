@@ -1,0 +1,109 @@
+{
+  "documents": [
+    {
+      "doc_id": "policy_handbook.pdf",
+      "chunks": [
+        {
+          "chunk_id": "policy_handbook.pdf#chunk_0",
+          "text": "Để đổi mật khẩu, người dùng cần truy cập trang \"Quản lý tài khoản\" và chọn mục \"Đổi mật khẩu\". Hệ thống yêu cầu xác thực hai yếu tố (2FA) nếu tài khoản đã kích hoạt tính năng này.",
+          "seed_question": "Làm thế nào để đổi mật khẩu tài khoản?",
+          "seed_answer": "Người dùng truy cập trang Quản lý tài khoản, chọn Đổi mật khẩu; nếu đã kích hoạt 2FA thì cần xác thực hai yếu tố."
+        },
+        {
+          "chunk_id": "policy_handbook.pdf#chunk_1",
+          "text": "Mật khẩu mới phải có ít nhất 8 ký tự, bao gồm chữ hoa, chữ thường và số. Mật khẩu không được trùng với 3 mật khẩu gần nhất.",
+          "seed_question": "Yêu cầu về độ mạnh của mật khẩu mới là gì?",
+          "seed_answer": "Mật khẩu mới cần tối thiểu 8 ký tự, có chữ hoa, chữ thường, số, và không trùng 3 mật khẩu gần nhất."
+        },
+        {
+          "chunk_id": "policy_handbook.pdf#chunk_2",
+          "text": "Nếu tài khoản bị khóa do nhập sai mật khẩu quá 5 lần, người dùng phải chờ 30 phút hoặc liên hệ bộ phận hỗ trợ để mở khóa ngay.",
+          "seed_question": "Tài khoản bị khóa sau bao nhiêu lần nhập sai mật khẩu?",
+          "seed_answer": "Tài khoản bị khóa sau 5 lần nhập sai; người dùng chờ 30 phút hoặc liên hệ hỗ trợ để mở khóa ngay."
+        },
+        {
+          "chunk_id": "policy_handbook.pdf#chunk_3",
+          "text": "Xác thực hai yếu tố (2FA) bắt buộc đối với tài khoản quản trị viên (admin) kể từ ngày 01/01/2025.",
+          "seed_question": "2FA bắt buộc áp dụng cho đối tượng nào và từ khi nào?",
+          "seed_answer": "2FA bắt buộc với tài khoản admin từ ngày 01/01/2025."
+        },
+        {
+          "chunk_id": "policy_handbook.pdf#chunk_4",
+          "text": "Người dùng quên mật khẩu có thể nhận liên kết đặt lại qua email đã đăng ký, liên kết có hiệu lực trong 15 phút.",
+          "seed_question": "Liên kết đặt lại mật khẩu qua email có hiệu lực trong bao lâu?",
+          "seed_answer": "Liên kết đặt lại mật khẩu có hiệu lực trong 15 phút."
+        }
+      ]
+    },
+    {
+      "doc_id": "refund_policy.pdf",
+      "chunks": [
+        {
+          "chunk_id": "refund_policy.pdf#chunk_0",
+          "text": "Khách hàng có thể yêu cầu hoàn tiền trong vòng 14 ngày kể từ ngày mua, với điều kiện sản phẩm chưa qua sử dụng.",
+          "seed_question": "Thời hạn yêu cầu hoàn tiền là bao lâu?",
+          "seed_answer": "Khách hàng có 14 ngày kể từ ngày mua để yêu cầu hoàn tiền, sản phẩm chưa sử dụng."
+        },
+        {
+          "chunk_id": "refund_policy.pdf#chunk_1",
+          "text": "Phí xử lý hoàn tiền là 5% giá trị đơn hàng đối với các đơn thanh toán qua thẻ tín dụng.",
+          "seed_question": "Phí xử lý hoàn tiền đối với thanh toán thẻ tín dụng là bao nhiêu?",
+          "seed_answer": "Phí xử lý hoàn tiền là 5% giá trị đơn hàng khi thanh toán bằng thẻ tín dụng."
+        },
+        {
+          "chunk_id": "refund_policy.pdf#chunk_2",
+          "text": "Sản phẩm thuộc danh mục \"Phần mềm đã kích hoạt\" không được hoàn tiền trừ khi có lỗi kỹ thuật từ nhà cung cấp.",
+          "seed_question": "Phần mềm đã kích hoạt có được hoàn tiền không?",
+          "seed_answer": "Phần mềm đã kích hoạt không được hoàn tiền, trừ khi có lỗi kỹ thuật từ nhà cung cấp."
+        },
+        {
+          "chunk_id": "refund_policy.pdf#chunk_3",
+          "text": "Thời gian xử lý hoàn tiền trung bình là 5-7 ngày làm việc sau khi yêu cầu được phê duyệt.",
+          "seed_question": "Hoàn tiền được xử lý trong bao lâu sau khi phê duyệt?",
+          "seed_answer": "Hoàn tiền được xử lý trong 5-7 ngày làm việc sau khi phê duyệt."
+        },
+        {
+          "chunk_id": "refund_policy.pdf#chunk_4",
+          "text": "Khách hàng tại khu vực Châu Âu (EU) có thêm quyền hoàn tiền 30 ngày theo luật bảo vệ người tiêu dùng địa phương.",
+          "seed_question": "Khách hàng EU có thời hạn hoàn tiền khác biệt như thế nào?",
+          "seed_answer": "Khách hàng EU được hoàn tiền trong 30 ngày theo luật bảo vệ người tiêu dùng địa phương."
+        }
+      ]
+    },
+    {
+      "doc_id": "sla_handbook.pdf",
+      "chunks": [
+        {
+          "chunk_id": "sla_handbook.pdf#chunk_0",
+          "text": "Thời gian phản hồi tiêu chuẩn cho yêu cầu hỗ trợ mức độ \"Thấp\" là trong vòng 24 giờ làm việc.",
+          "seed_question": "SLA phản hồi cho yêu cầu mức độ Thấp là bao lâu?",
+          "seed_answer": "Yêu cầu mức Thấp được phản hồi trong vòng 24 giờ làm việc."
+        },
+        {
+          "chunk_id": "sla_handbook.pdf#chunk_1",
+          "text": "Yêu cầu hỗ trợ mức \"Khẩn cấp\" (Critical) phải được phản hồi trong vòng 1 giờ, 24/7.",
+          "seed_question": "Yêu cầu mức Khẩn cấp được phản hồi trong bao lâu?",
+          "seed_answer": "Yêu cầu mức Khẩn cấp được phản hồi trong vòng 1 giờ, hoạt động 24/7."
+        },
+        {
+          "chunk_id": "sla_handbook.pdf#chunk_2",
+          "text": "Các ticket không được phản hồi trong SLA sẽ tự động leo thang (escalate) lên quản lý cấp cao sau 2 giờ trễ hạn.",
+          "seed_question": "Khi nào ticket được tự động leo thang lên quản lý?",
+          "seed_answer": "Ticket tự động leo thang lên quản lý sau khi trễ SLA 2 giờ."
+        },
+        {
+          "chunk_id": "sla_handbook.pdf#chunk_3",
+          "text": "Giờ làm việc hỗ trợ tiêu chuẩn là 8h-18h từ thứ Hai đến thứ Sáu, trừ ngày lễ.",
+          "seed_question": "Giờ làm việc hỗ trợ tiêu chuẩn là khi nào?",
+          "seed_answer": "Giờ hỗ trợ tiêu chuẩn là 8h-18h, thứ Hai đến thứ Sáu, trừ ngày lễ."
+        },
+        {
+          "chunk_id": "sla_handbook.pdf#chunk_4",
+          "text": "Đối với khách hàng gói Enterprise, SLA phản hồi được rút ngắn xuống 50% so với gói tiêu chuẩn.",
+          "seed_question": "Khách hàng gói Enterprise có SLA phản hồi khác gì so với gói tiêu chuẩn?",
+          "seed_answer": "Khách hàng Enterprise có SLA phản hồi rút ngắn 50% so với gói tiêu chuẩn."
+        }
+      ]
+    }
+  ]
+}
